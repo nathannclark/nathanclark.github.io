@@ -133,20 +133,20 @@ body {
 }
 
 .slide:nth-child(1) {
-  background-color: #49b293;
+  background-color: #A60013;
 }
 
 .slide:nth-child(2) {
-  background-color: #b03532;
+  background-color: #A60013;
 }
 
 .slide:nth-child(3) {
-  background-color: #6a478f;
+  background-color: #A60013;
   margin: 0;
 }
 
 .slide:nth-child(4) {
-  background-color: #da6f2b;
+  background-color: #A60013;
 }
 
 /* Test if messes with previous footer parameters */
