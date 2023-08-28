@@ -167,7 +167,7 @@ footer .heart {
 }
 
 .iframe-container iframe {
-  width: auto;
+  width: 100vw;
   height: 80vh;
   border: none;
 }
