@@ -124,6 +124,11 @@ body {
   flex: 1 0 100%;
 }
 
+.slideimg{
+    width: 100%;
+    overflow: hidden;
+}
+
 .slide:nth-child(1) {
   background-color: #49b293;
 }
