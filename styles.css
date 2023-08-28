@@ -14,7 +14,10 @@ body, h1, h2, h3, p, ul, li {
   .title {
     font-size: 2rem;
     margin-bottom: 10px;
+  }
+  .title a{
     text-decoration: none;
+    color: white;
   }
   
   /* Styling for the navigation bar */
