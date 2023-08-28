@@ -184,6 +184,14 @@ footer .heart {
   border: none;
 }
 
+.iframe-container a{
+    color: #333;
+}
+
+.iframe-container a:active{
+    color: #A60013;
+}
+
  .webp {
       width: 75vw;
       margin-top: 5px;
