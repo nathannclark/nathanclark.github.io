@@ -167,8 +167,8 @@ footer .heart {
 }
 
 .iframe-container iframe {
-  width: 100%;
-  height: 400px;
+  width: auto;
+  height: 80vh;
   border: none;
 }
 
@@ -178,7 +178,7 @@ footer .heart {
       margin-bottom: 10px;
   }
 
-  .webframe{
+/*   .webframe{
     width: 75vw;
     height: 600px;
   }
@@ -186,3 +186,4 @@ footer .heart {
     height: 80vh;
     width: auto;
 }
+ */
