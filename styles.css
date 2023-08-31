@@ -40,6 +40,10 @@ body, h1, h2, h3, p, ul, li {
     color: #A60013;
     font-weight: bold;
   }
+
+.ulCenter {
+    width: 100%;
+}
   
   /* Styling for the gallery slider */
   /* .gallery-slider { */
